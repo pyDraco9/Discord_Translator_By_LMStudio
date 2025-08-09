@@ -1,0 +1,2 @@
+# Discord_Translator_By_LMStudio
+使用本地LMStudio对Discord指定聊天内容进行翻译的Discord脚本
